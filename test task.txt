@@ -1,0 +1,9 @@
+Please create page with next configuration:
+No css framework
+Table size: 768 < view < 1024
+Mobile seze: 768> view
+On mobile version all columns will be one below each other
+
+Please Notice time you spend with task!
+
+Thanks
